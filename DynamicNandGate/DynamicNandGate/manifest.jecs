@@ -1,0 +1,12 @@
+ID: FoxFireFive.DynamicNandGate
+Name: Dynamic NAND Gate
+Author: FoxFireFive
+Version: 1.0.0
+
+# Unless you good an incredibly good reason WHILE ALSO knowing what exactly you are doing, keep this at, or near zero. 
+# DO NOT EVER CHOOSE VALUES NEAR THE UPPER OR LOWER ENDS OF THIS RANGE (-100 TO 100), AS THIS SHOULD BE RESERVED FOR MODS THAT MODIFY THE GAME LOADING PROCESS.
+Priority: 0
+
+ClientDependencies:
+    - EccsGuiBuilder
+    - EccsLogicWorldAPI

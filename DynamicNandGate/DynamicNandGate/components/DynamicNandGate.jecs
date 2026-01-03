@@ -1,0 +1,5 @@
+DynamicNandGate:
+    column: "Logic"
+    logicCode: FoxFireFive_DynamicNandGate.Server.DynamicNandGate
+    prefabGenerator: FoxFireFive_DynamicNandGate.Client.NandGatePrefabGenerator
+    placingRulesGenerator: FoxFireFive_DynamicNandGate.Client.NandGatePlacingRulesGenerator
