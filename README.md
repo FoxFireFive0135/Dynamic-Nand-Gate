@@ -5,7 +5,7 @@ refer to https://github.com/FoxFireFive0135/Basic-Logic-World-Mod/blob/main/READ
 
 #
 
-This mod relys on Ecconia's mods, these 2 specifically:
+This mod relies on Ecconia's mods, these 2 specifically:
 
 https://github.com/Ecconia/Ecconia-LogicWorld-Mods/tree/master/EccsLogicWorldAPI
 
